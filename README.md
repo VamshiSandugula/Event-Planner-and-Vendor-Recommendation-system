@@ -8,15 +8,10 @@ RSVP Tracking: Monitor who has accepted or declined invitations.
 Event Calendar: View all upcoming and past events in a calendar format.
 Notifications: Receive reminders and updates about events.
 Admin Dashboard: Manage users, events, and permissions (if applicable).
-Technologies Used
-Frontend: (e.g., React, Angular, or plain HTML/CSS/JavaScript)
-Backend: (e.g., Node.js with Express, Django, or Flask)
-Database: (e.g., MongoDB, MySQL, or PostgreSQL)
-Authentication: (e.g., JWT, OAuth)
-Email Service: (e.g., Nodemailer, SendGrid)
-Getting Started
-Clone the repository.
-Install dependencies using npm install or pip install -r requirements.txt.
-Set up environment variables as needed.
-Run the development server.
-Access the application in your browser.
+Tech Stack used:
+>Frontend: HTML, CSS, JavaScript (optionally React or Angular)
+>Backend: Google Firebase (Firestore, Authentication, Hosting)
+>Database: Firebase Firestore (NoSQL)
+>Authentication: Firebase Authentication
+>Hosting: Firebase Hosting
+>Other: Email notifications (via Firebase or third-party service)
